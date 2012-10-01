@@ -3,7 +3,7 @@
 if (!defined('BASEPATH'))
   exit('No direct script access allowed');
 
-/**
+/**test
  * Copyright (c) 2012, Aaron Benson - GalleryCMS - http://www.gallerycms.com
  * 
  * GalleryCMS is a free software application built on the CodeIgniter framework. 
